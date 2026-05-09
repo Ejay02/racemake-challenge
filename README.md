@@ -1,7 +1,7 @@
 # RACEMake PitGPT Challenge
 
 
-# Documentation Export: RACEMAKE Challenge Resolution
+# Documentation Export: RACEMAKE Challenge Resolution.
 
 ## 1. Level 1: Sorting Bug Fix
 **Summary:** Resolved an issue where the coaching pipeline identified the wrong problem sector by outputting the fastest sector instead of the slowest.  
