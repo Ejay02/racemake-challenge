@@ -12,7 +12,7 @@
 
 **Current State:** The lap analysis accurately flags the sector with the highest time lost, resolving the validation failure without restructuring the underlying data pattern. 
 
-## 2. Level 2: Stint Analysis Extension
+## Level 2: Stint Analysis Extension
 **Summary:** Extended the system to process arrays of consecutive laps (a "stint"), tracking how a driver’s issues evolve as tyres degrade. 
 
 **Operational Logic:**
