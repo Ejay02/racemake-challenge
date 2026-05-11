@@ -1,6 +1,7 @@
 # RACEMake PitGPT Challenge
 
 
+
 # Documentation Export: RACEMAKE Challenge Resolution.
 
 ## 1. Level 1: Sorting Bug Fix
