@@ -1,4 +1,4 @@
-# RACEMake PitGPT Challenge
+# RACEMake PitGPT Challenge 🏁
 
 
 # Documentation Export: RACEMAKE Challenge Resolution.
