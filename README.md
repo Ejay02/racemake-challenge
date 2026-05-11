@@ -20,7 +20,7 @@
 *   **Pattern Tracking:** A summary engine tracks the primary issue of each lap. It compares the primary issue from the beginning of the stint (Lap 1) to the end of the stint (Lap 14).
 *   **Coaching Output:** If a shift is detected (e.g., from *Late Braking* to *Traction Loss*), the engine dynamically appends a stint-level summary acknowledging the degraded traction limits and tyre wear. The system now natively supports both discrete lap analysis and continuous stint monitoring.
 
-## 3. Level 3: Real-Time Telemetry Scaling (Architectural Review)
+## Level 3: Real-Time Telemetry Scaling (Architectural Review)
 **Summary:** Analysis of system breaking points when scaling to 120Hz live telemetry for grids of 20+ cars, along with the required structural shifts safely documented.
 
 **Operational Logic:**
