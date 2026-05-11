@@ -3,7 +3,7 @@
 
 # Documentation Export: RACEMAKE Challenge Resolution.
 
-## 1. Level 1: Sorting Bug Fix
+## Level 1: Sorting Bug Fix
 **Summary:** Resolved an issue where the coaching pipeline identified the wrong problem sector by outputting the fastest sector instead of the slowest.  
 
 **Legacy State:** The `analyzeLap` function sorted sector findings in ascending order (`a.delta - b.delta`). This incorrectly placed the sector with the lowest time lost (or most time gained) at index `0`, skipping the actual problem sector.  
