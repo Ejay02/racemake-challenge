@@ -28,7 +28,7 @@
 *   **Proposed Architecture:**
     1.  Transition from monolithic in-memory mapping to an **event-stream architecture** (e.g., Apache Kafka, Redis Streams) designed to easily handle 120Hz throughput.
     2.  Replace the full-lap calculation wait with **sliding window processors** via distributed instances or worker threads, making coaching instantaneous.
-    3.  Offload raw historical streams into a **Time-Series Database** (like InfluxDB), caching only the live, actionable stint metadata in fast-access memory (Redis).
+    3.  Offload raw historical streams into a **Time-Series Database** (like InfluxDB), caching only the live, actionable stint metadata in fast-access memory (Redis)
 
 
     
